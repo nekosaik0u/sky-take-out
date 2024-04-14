@@ -8,6 +8,11 @@ sky:
     password: a1799075799
   alioss:
     endpoint: oss-cn-beijing.aliyuncs.com
-    access-key-id: LTAI5tPXdUpTmX7vkSecXd1a
-    access-key-secret: Q77zekP9NYKeKW9cON9fl8PYmDX0rc
+    access-key-id:
+    access-key-secret:
     bucket-name: nekosaikou
+  redis:
+    host: localhost
+    port: 6379
+    password: 123456
+    database: 0
